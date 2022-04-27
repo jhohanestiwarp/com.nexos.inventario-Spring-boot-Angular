@@ -1,0 +1,15 @@
+com\nexos\pruebaInventario\dto\CargoDTO.class
+com\nexos\pruebaInventario\controllers\CargoController.class
+com\nexos\pruebaInventario\models\Usuario.class
+com\nexos\pruebaInventario\service\UsuarioService.class
+com\nexos\pruebaInventario\repository\CargoRepository.class
+com\nexos\pruebaInventario\PruebaInventarioApplication.class
+com\nexos\pruebaInventario\service\CargoServiceImpl.class
+com\nexos\pruebaInventario\configurations\ApplicationConfiguration.class
+com\nexos\pruebaInventario\dto\UsuarioDTO.class
+com\nexos\pruebaInventario\repository\UsuarioRepository.class
+com\nexos\pruebaInventario\dto\MercanciaDTO.class
+com\nexos\pruebaInventario\controllers\UsuarioController.class
+com\nexos\pruebaInventario\models\Cargo.class
+com\nexos\pruebaInventario\service\UsuarioServiceImpl.class
+com\nexos\pruebaInventario\models\Mercancia.class
